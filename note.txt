@@ -1,0 +1,7 @@
+=> public: All the images/videos...etc. kept here.
+=> app: Here is all the pages, layout kept.
+
+* The "/" route page is page.js
+* layout came from layout.js
+* all the css came from global.css
+* If i want to make a new page I will create a new folder in app folder and in this new folder i create a page.js/jsx/tsx file. the page route name will taken from the new folder name.
